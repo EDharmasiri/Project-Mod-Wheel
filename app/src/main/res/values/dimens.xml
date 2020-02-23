@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="seek_bar_thickness">8dp</dimen>
+    <dimen name="seek_bar_thumb_width">30dp</dimen>
+    <dimen name="seek_bar_thumb_height">60dp</dimen>
+    <dimen name="seek_bar_thumb_corner_radius">6dp</dimen>
+</resources>
